@@ -1,0 +1,14 @@
+# Byte-compiled / virtual env
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# audio/temp
+tmp/
+*.wav
+*.mp3
+
+# editor
+.vscode/
+.idea/
